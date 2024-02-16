@@ -1,1 +1,2 @@
-# ftish
+# Auth Bot
+- youtube.com/@WraithsDev
